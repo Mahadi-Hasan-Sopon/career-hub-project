@@ -1,0 +1,230 @@
+[
+    {
+        "id": 1,
+        "logo": "https://i.ibb.co/w4kBx9v/techcorp-inc2.png",
+        "job_title": "Software Engineer",
+        "company_name": "TechCorp Inc.",
+        "remote_or_onsite": "Remote",
+        "location": "New York, USA",
+        "job_type": "Full Time",
+        "salary": "90k-120k",
+        "job_description": "A software engineer designs, develops, and maintains software applications, ensuring they meet quality and performance standards.",
+        "job_responsibility": "Coding and testing: Software engineers write code, conduct testing, and collaborate with cross-functional teams to deliver software projects.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3-5 Years in software development.",
+        "contact_information": {
+            "phone": "123-456-7890",
+            "email": "hr@techcorp.com",
+            "address": "123 Main Street, New York, USA"
+        }
+    },
+    {
+        "id": 2,
+        "logo": "https://i.ibb.co/sKkpCvs/marketpro-solutions.png",
+        "job_title": "Marketing Specialist",
+        "company_name": "MarketPro Solutions",
+        "remote_or_onsite": "Onsite",
+        "location": "Los Angeles, USA",
+        "job_type": "Part Time",
+        "salary": "70k-90k",
+        "job_description": "A marketing specialist is responsible for planning and executing marketing campaigns and analyzing their effectiveness.",
+        "job_responsibility": "Campaign management: Marketing specialists create and manage marketing campaigns, conduct market research, and analyze data to optimize strategies.",
+        "educational_requirements": "Bachelor's degree in Marketing or related field.",
+        "experiences": "2-4 Years in marketing.",
+        "contact_information": {
+            "phone": "555-123-4567",
+            "email": "careers@marketpro.com",
+            "address": "456 Oak Street, Los Angeles, USA"
+        }
+    },
+    {
+        "id": 3,
+        "logo": "https://i.ibb.co/kKkkDq1/datatech-solutions.png",
+        "job_title": "Data Scientist",
+        "company_name": "DataTech Solutions",
+        "remote_or_onsite": "Remote",
+        "location": "San Francisco, USA",
+        "job_type": "Full Time",
+        "salary": "100k-140k",
+        "job_description": "A data scientist analyzes large datasets to extract valuable insights and inform business decisions.",
+        "job_responsibility": "Data analysis: Data scientists collect and analyze data, develop predictive models, and present findings to support data-driven decision-making.",
+        "educational_requirements": "Master's degree in Data Science or related field.",
+        "experiences": "5-7 Years in data analysis.",
+        "contact_information": {
+            "phone": "888-555-7890",
+            "email": "recruitment@datatech.com",
+            "address": "789 Elm Avenue, San Francisco, USA"
+        }
+    },
+    {
+        "id": 4,
+        "logo": "https://i.ibb.co/6b9cbLr/design-Masters-co.png",
+        "job_title": "UX/UI Designer",
+        "company_name": "DesignMasters Co.",
+        "remote_or_onsite": "Onsite",
+        "location": "London, UK",
+        "job_type": "Full Time",
+        "salary": "80k-110k",
+        "job_description": "A UX/UI designer creates engaging and effective interfaces for software and web applications, focusing on user experience and visual design.",
+        "job_responsibility": "Interface design: UX/UI designers collaborate with teams to design layouts, visual elements, and interactive user interfaces.",
+        "educational_requirements": "Bachelor's degree in Design or related field.",
+        "experiences": "3-5 Years in UX/UI design.",
+        "contact_information": {
+            "phone": "+44-20-1234-5678",
+            "email": "jobs@designmasters.co.uk",
+            "address": "10 Park Lane, London, UK"
+        }
+    },
+    {
+        "id": 5,
+        "logo": "https://i.ibb.co/WsZ1GwX/Finance-Pro-Inc.png",
+        "job_title": "Financial Analyst",
+        "company_name": "FinancePro Inc.",
+        "remote_or_onsite": "Remote",
+        "location": "Toronto, Canada",
+        "job_type": "Part Time",
+        "salary": "75k-100k",
+        "job_description": "A financial analyst assesses financial data and provides insights to support investment decisions.",
+        "job_responsibility": "Financial analysis: Financial analysts analyze financial data, create reports, and offer recommendations for investment strategies.",
+        "educational_requirements": "Bachelor's degree in Finance or related field.",
+        "experiences": "2-4 Years in financial analysis.",
+        "contact_information": {
+            "phone": "+1-416-555-1234",
+            "email": "hr@financepro.ca",
+            "address": "123 Bay Street, Toronto, Canada"
+        }
+    },
+    {
+        "id": 6,
+        "logo": "https://i.ibb.co/9vFt5VQ/HR-Solutions-Ltd.png",
+        "job_title": "HR Manager",
+        "company_name": "HR Solutions Ltd.",
+        "remote_or_onsite": "Onsite",
+        "location": "Sydney, Australia",
+        "job_type": "Full Time",
+        "salary": "85k-110k",
+        "job_description": "An HR manager oversees human resources operations, including recruitment, employee relations, and performance management.",
+        "job_responsibility": "HR management: HR managers lead HR initiatives, handle employee relations, and ensure compliance with employment laws and policies.",
+        "educational_requirements": "Bachelor's degree in Human Resources or related field.",
+        "experiences": "4-6 Years in HR management.",
+        "contact_information": {
+            "phone": "+61-2-5555-6789",
+            "email": "careers@hrsolutions.com.au",
+            "address": "456 King Street, Sydney, Australia"
+        }
+    },
+    {
+        "id": 7,
+        "logo": "https://i.ibb.co/CJcRz13/Sales-Tech-Solutions.png",
+        "job_title": "Sales Representative",
+        "company_name": "SalesTech Solutions",
+        "remote_or_onsite": "Remote",
+        "location": "Chicago, USA",
+        "job_type": "Full Time",
+        "salary": "60k-80k",
+        "job_description": "A sales representative promotes and sells products or services to customers and clients.",
+        "job_responsibility": "Sales efforts: Sales representatives identify leads, engage with potential customers, and close sales deals to meet revenue targets.",
+        "educational_requirements": "Bachelor's degree in Business or related field.",
+        "experiences": "1-3 Years in sales.",
+        "contact_information": {
+            "phone": "312-555-7890",
+            "email": "sales@salestech.com",
+            "address": "789 Market Street, Chicago, USA"
+        }
+    },
+    {
+        "id": 8,
+        "logo": "https://i.ibb.co/2tzK3wz/Project-Works-Ltd.png",
+        "job_title": "Project Manager",
+        "company_name": "ProjectWorks Ltd.",
+        "remote_or_onsite": "Onsite",
+        "location": "Berlin, Germany",
+        "job_type": "Part Time",
+        "salary": "90k-130k",
+        "job_description": "A project manager oversees the planning and execution of projects to ensure they are completed on time and within budget.",
+        "job_responsibility": "Project management: Project managers lead project teams, create project plans, and monitor progress to achieve project goals.",
+        "educational_requirements": "Bachelor's degree in Project Management or related field.",
+        "experiences": "3-5 Years in project management.",
+        "contact_information": {
+            "phone": "+49-30-1234-5678",
+            "email": "careers@projectworks.de",
+            "address": "123 Schlossallee, Berlin, Germany"
+        }
+    },
+    {
+        "id": 9,
+        "logo": "https://i.ibb.co/hLLHdyP/Support-Tech-Inc.png",
+        "job_title": "Customer Support Specialist",
+        "company_name": "SupportTech Inc.",
+        "remote_or_onsite": "Remote",
+        "location": "Sydney, Australia",
+        "job_type": "Full Time",
+        "salary": "55k-75k",
+        "job_description": "A customer support specialist assists customers with product inquiries, technical issues, and other concerns.",
+        "job_responsibility": "Customer support: Support specialists provide timely and helpful assistance to customers through various communication channels.",
+        "educational_requirements": "High school diploma or equivalent.",
+        "experiences": "1-2 Years in customer support.",
+        "contact_information": {
+            "phone": "+61-2-555-1234",
+            "email": "support@supporttech.com.au",
+            "address": "456 Customer Street, Sydney, Australia"
+        }
+    },
+    {
+        "id": 10,
+        "logo": "https://i.ibb.co/37tc4qt/Product-Innovators.png",
+        "job_title": "Product Manager",
+        "company_name": "Product Innovators",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco, USA",
+        "job_type": "Part Time",
+        "salary": "110k-150k",
+        "job_description": "A product manager defines and manages a product's vision, strategy, and development.",
+        "job_responsibility": "Product development: Product managers lead product development efforts, collaborate with cross-functional teams, and drive product success.",
+        "educational_requirements": "Bachelor's degree in Business or related field.",
+        "experiences": "4-6 Years in product management.",
+        "contact_information": {
+            "phone": "415-555-6789",
+            "email": "careers@productinnovators.com",
+            "address": "789 Innovation Road, San Francisco, USA"
+        }
+    },
+    {
+        "id": 11,
+        "logo": "https://i.ibb.co/FDm7v4K/meta.png",
+        "job_title": "Software Engineer",
+        "company_name": "Meta Platforms, Inc.",
+        "remote_or_onsite": "Hybrid",
+        "location": "Menlo Park, CA",
+        "job_type": "Full Time",
+        "salary": "120k-180k",
+        "job_description": "A software engineer is responsible for designing, developing, and testing software applications. This includes working with a variety of programming languages and technologies to create high-quality, reliable software.",
+        "job_responsibility": "Collaborating with cross-functional teams: Software engineers often work closely with other teams, including product management, design, and quality assurance, to ensure that the software meets the needs of users and stakeholders. You will need to be able to effectively communicate your technical ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor's degree in computer science or a related field.",
+        "experiences": "3-5 years of experience in software development.",
+        "contact_information": {
+            "phone": "1-650-555-5555",
+            "email": "jobs@meta.com",
+            "address": "1 Hacker Way, Menlo Park, CA 94025"
+        }
+    },
+    {
+        "id": 12,
+        "logo": "https://i.ibb.co/ssXJQpY/Amazon-Web-Services.png",
+        "job_title": "Product Manager",
+        "company_name": "Amazon Web Services",
+        "remote_or_onsite": "Remote",
+        "location": "Seattle, WA",
+        "job_type": "Full Time",
+        "salary": "150k-200k",
+        "job_description": "A product manager is responsible for the lifecycle of a product, from ideation to launch and beyond. This includes working with cross-functional teams to define the product vision, roadmap, and features. Product managers also play a key role in gathering and analyzing user feedback, and using that feedback to improve the product.",
+        "job_responsibility": "Collaborating with cross-functional teams: Product managers often work closely with other teams, including engineering, design, and marketing, to ensure that the product meets the needs of users and stakeholders. You will need to be able to effectively communicate your product vision and roadmap, and gather feedback from other team members.",
+        "educational_requirements": "Bachelor's degree in business administration, computer science, or a related field.",
+        "experiences": "3-5 years of experience in product management.",
+        "contact_information": {
+            "phone": "1-206-266-1000",
+            "email": "jobs@amazon.com",
+            "address": "410 Terry Ave N, Seattle, WA 98109"
+        }
+    }
+]
